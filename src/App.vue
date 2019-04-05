@@ -2,6 +2,7 @@
   <div id="app">
     <main-container/>
   </div>
+
 </template>
 
 <script>
